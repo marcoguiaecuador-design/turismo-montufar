@@ -1,0 +1,44 @@
+# Formularios, respuestas y datos de trabajo
+datos/
+respuestas/
+encuestas/
+contactos/
+exportaciones/
+backups/
+backup/
+
+# Archivos que requieren revisión antes de publicarse
+*.xlsx
+*.xls
+*.csv
+*.pbix
+*.gpkg
+*.geojson
+*.shp
+*.dbf
+*.pdf
+*.doc
+*.docx
+
+# Imágenes, medios y comprimidos
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.mov
+*.zip
+*.7z
+*.rar
+
+# Secretos y configuración
+.env
+.env.*
+credentials*
+secrets*
+*.pem
+*.key
+
+# Sistema
+Thumbs.db
+.DS_Store
+~$*
